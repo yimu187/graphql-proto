@@ -1,6 +1,6 @@
 GraphQL prototype project.
 
-Simply run the project , add data with addPersone post request and send the graph queries below
+Simply run the project , add data with addPerson post request and send the graph queries below
 
 localhost:8070/addPerson
 {
